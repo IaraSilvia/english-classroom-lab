@@ -1,5 +1,12 @@
 # 📚 English Classroom Lab
 
+![License](https://img.shields.io/badge/License-Educational-blue.svg)
+![Language](https://img.shields.io/badge/Language-English-red.svg)
+![Resources](https://img.shields.io/badge/Resources-Worksheets-success.svg)
+![Level](https://img.shields.io/badge/Level-A1--A2-8A2BE2.svg)
+![Focus](https://img.shields.io/badge/Focus-Communication-orange.svg)
+![Made with AI](https://img.shields.io/badge/AI-Assisted-8A2BE2.svg)
+
 > Creative resources for meaningful English learning.
 
 Welcome to **English Classroom Lab**, a repository dedicated to sharing classroom activities, worksheets, lesson ideas and teaching resources designed for English language learning.
@@ -29,19 +36,6 @@ Technology and AI were used to improve organization, revision and productivity t
 
 More activities will be added over time.
 
----
-
-## Featured Activity
-
-### 😊 Emotions & Emojis
-
-This activity encourages students to identify and express emotions through the creation of emojis.
-
-During classroom application, it generated laughter, meaningful conversations and moments of empathy, allowing students to connect through language while sharing personal experiences.
-
-📄 **Download**
-
-`activities/emotions-emojis/emotions-emojis.pdf`
 
 ---
 
